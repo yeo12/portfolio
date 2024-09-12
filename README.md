@@ -15,6 +15,6 @@
 # Contact
 
 - 이메일 : uphy1004@gmail.com
-- 블로그 : <a href="https://50n8y301.tistory.com/">
+- [블로그] (https://50n8y301.tistory.com/)
 - 깃허브 : <a href="https://github.com/yeo12">
 - 유튜브 :<a href="https://www.youtube.com/@user-ne5yg6yd9p">
