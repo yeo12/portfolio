@@ -14,9 +14,9 @@
 
 ## [게임개발]
 ### 1. 3D 플레포머 퍼즐 게임
-> 2023 전국기능경기대회 광주 주제
-> 사용 엔진 - Unity
-> [프로젝트 상세](https://github.com/yeo12/2023-gwangju-game-01)
+> 2023 전국기능경기대회 광주 주제<br />
+> 사용 엔진 - Unity<br />
+> [프로젝트 상세](https://github.com/yeo12/2023-gwangju-game-01)<br />
 
 <br />
 
