@@ -18,12 +18,12 @@
 > 사용 엔진 - Unity<br />
 > [프로젝트 상세](https://github.com/yeo12/2023-gwangju-game-01)<br />
 
-### 1. 3D 디펜스 게임
+### 2. 3D 디펜스 게임
 > 2023 전국기능경기대회 충남 주제<br />
 > 사용 엔진 - Unity<br />
 > [프로젝트 상세](https://github.com/yeo12/2023-chungnam-game-02)<br />
 
-### 1. 3D 슈팅 게임
+### 3. 3D 슈팅 게임
 > 2023 지방기능경기대회 충남 주제<br />
 > 사용 엔진 - Unity<br />
 > [프로젝트 상세](https://github.com/yeo12/2023-chungnam-game-01)<br />
