@@ -28,6 +28,11 @@
 > 사용 엔진 - Unity<br />
 > [프로젝트 상세](https://github.com/yeo12/2023-chungnam-game-01)<br />
 
+### 3. 3D 슈팅 게임
+> 2023 전국기능경기대회 강원 주제<br />
+> 사용 엔진 - Unity<br />
+> [프로젝트 상세](https://github.com/yeo12/2023-gangwon-game-01)<br />
+
 <br />
 # Contact
 - 이메일 : uphy1004@gmail.com
