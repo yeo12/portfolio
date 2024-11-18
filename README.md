@@ -35,13 +35,13 @@
 
 <br />
 # Contact
-- 이메일 : uphy1004@gmail.com
-- 블로그 : <a href="https://50n8y301.tistory.com/">
+- 이메일 : uphy1004@gmail.com<br />
+- 블로그 : <a href="https://50n8y301.tistory.com/"><br />
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkEjsa%2FbtsJzCPJtaI%2FSHWcOFdSQuYJIJRbvL77hK%2Fimg.png" height="26px" style="margin-top: 10px" />
-  </a>
+  </a><br />
 - 깃허브 : <a href="https://github.com/yeo12">
   <img src="https://user-images.githubusercontent.com/68724828/185908612-22f4d219-78a7-4de7-bb02-deecaa63bffa.png" height="28px" style="margin-top: 10px" />
-  </a>
+  </a><br />
 - 유튜브 :<a href="https://www.youtube.com/@user-ne5yg6yd9p">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
-  </a>
+  </a><br />
