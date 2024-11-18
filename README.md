@@ -34,7 +34,7 @@
 > [프로젝트 상세](https://github.com/yeo12/2023-gangwon-game-01)<br />
 
 <br />
-# Contact<br />
+### Contact
 - 이메일 : uphy1004@gmail.com<br />
 - 블로그 : <a href="https://50n8y301.tistory.com/">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkEjsa%2FbtsJzCPJtaI%2FSHWcOFdSQuYJIJRbvL77hK%2Fimg.png" height="26px" style="margin-top: 10px" />
